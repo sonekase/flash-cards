@@ -6,3 +6,7 @@
 .important img {
   width: 50%;
 }
+
+.highlight {
+  border: 5px solid green;
+}
